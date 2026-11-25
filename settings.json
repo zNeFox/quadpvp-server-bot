@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "24_4Bot",
+    "username": "24_7bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivality89.aternos.me",
-    "port":  33134,
+    "ip": "quadpvp.aternos.me",
+    "port":  60504,
     "version": "1.21.11",
     "try-creative": false
   },
